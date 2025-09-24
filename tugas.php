@@ -19,7 +19,7 @@ $gabung = $tugas1 . $tugas2;
 $string1='Ini adalah string sederhana'; 
 $string2='Ini adalah 
 string yang bisa 
-memiliki beberapa 
+memiliksi beberapa 
 baris'; 
 $string3='Dia berkata: "I\'ll be back"'; 
 $string4='Anda telah berhasil menghapus C:\\xampp\\htdoc'; 
